@@ -1,4 +1,5 @@
-@import '../../styles/settings.scss';
+@use 'sass:math';
+@import '../../../../styles/settings.scss';
 
 .button {
     background: $color-success;
